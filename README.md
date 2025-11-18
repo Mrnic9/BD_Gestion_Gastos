@@ -1,1 +1,0 @@
-# BD_Gestion_Gastos
